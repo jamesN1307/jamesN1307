@@ -7,7 +7,7 @@ Web Developer
 Solution-driven web developer adept at contributing to a highly collaborative work environment and finding solutions. Proven experience Developing consumer-focused websites using HTML, Javascript, React JS, TypeScript, and Node JS. Good knowledge of the best practice for web design, user experience and speed
 
 * 🌍  I'm based in Seattle, WA
-* 🖥️  See my portfolio at [James-portfolio](http://james-love-boba-portfolio.netlify.)
+* 🖥️  See my portfolio at [James-portfolio](http://james-love-boba-portfolio.netlify.app)
 * ✉️  You can contact me at [nguyentri1307@gmail.com](mailto:nguyentri1307@gmail.com)
 * 🚀  I'm currently working on [trip-advisor clone](http://shrimp-can-travel.netlify.app/)
 * 🧠  I'm learning Redux
