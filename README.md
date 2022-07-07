@@ -44,4 +44,3 @@ Solution-driven web developer adept at contributing to a highly collaborative wo
 
 <a href="http://www.github.com/JamesN1307"><img src="https://github-readme-streak-stats.herokuapp.com/?user=JamesN1307&stroke=ef4444&background=000000&ring=a855f7&fire=a855f7&currStreakNum=ef4444&currStreakLabel=a855f7&sideNums=ef4444&sideLabels=ef4444&dates=ef4444&hide_border=true" /></a>
 
-<a href="http://www.github.com/JamesN1307"><img src="https://activity-graph.herokuapp.com/graph?username=JamesN1307&bg_color=000000&color=ef4444&line=0891b2&point=ef4444&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
